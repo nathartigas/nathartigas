@@ -110,9 +110,9 @@ Estagiária de Laboratório de Validação de Sistemas. Desenvolvo automações 
 **🛢️ Petrobras**
 `nov/2022 – jun/2024 · 1 ano 8 meses`
 
-Jovem aprendiz e desenvolvedora web. Primeiro contato com desenvolvimento profissional em ambiente corporativo de alta exigência.
+Jovem aprendiz e desenvolvedora web. Desenvolvi em equipe uma **plataforma de acesso a informações** de bacias petrolíferas, poços e ativos — incluindo mapa interativo para visualização geográfica dos dados estratégicos da empresa.
 
-`Web Dev` `Desenvolvimento Institucional`
+`Web Dev` `Mapas Interativos` `Plataforma de Dados` `Trabalho em Equipe`
 
 </td>
 </tr>
