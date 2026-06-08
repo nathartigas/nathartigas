@@ -132,17 +132,6 @@ Web developer on a team that built an internal intelligence platform for oil bas
 
 ---
 
-## Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathartigas&layout=compact&theme=transparent&hide_border=true&title_color=c9b99a&text_color=8b8478&bg_color=00000000" width="360"/>
-
-<img src="https://streak-stats.demolab.com?user=nathartigas&theme=transparent&hide_border=true&background=00000000&stroke=c9b99a&ring=c9b99a&fire=c47a5a&currStreakLabel=c9b99a&sideLabels=8b8478&dates=8b8478" width="400"/>
-
-</div>
-
----
 
 <div align="center">
 
