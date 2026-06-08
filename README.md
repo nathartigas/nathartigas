@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Nathalia%20Artigas&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Automation%20%E2%80%A2%20Curitiba%2C%20BR&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111118,100:0d0d1a&height=180&section=header&text=Nathalia%20Artigas&fontSize=48&fontColor=f5f0e8&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Automation%20%C2%B7%20Curitiba%2C%20BR&descAlignY=62&descSize=14&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Estagiária+de+Engenharia+%40+Electrolux;Automação+Python+%7C+Validação+de+Software;19+anos+%7C+Engenharia+de+Software;Construindo+devagar%2C+mas+construindo+todo+dia.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=15&pause=1200&color=C9B99A&center=true&vCenter=true&width=580&lines=Firmware+Validation+Automation+%40+Electrolux;Python+%7C+REST+APIs+%7C+AI+Integrations;Building+systems+that+actually+save+people's+time.)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,104 +14,107 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nathaliaartigas-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaliaartigas)
-[![Gmail](https://img.shields.io/badge/Email-nathartigasna@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathartigasna@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-nathartigas-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nathartigas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white&label=nathaliaartigas)](https://www.linkedin.com/in/nathaliaartigas)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-%23EA4335?style=flat-square&logo=gmail&logoColor=white&label=nathartigasna)](mailto:nathartigasna@gmail.com)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white&label=nathartigas)](https://github.com/nathartigas)
 
 </div>
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nathartigas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="420"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nathartigas&show_icons=true&theme=transparent&hide_border=true&title_color=c9b99a&icon_color=c9b99a&text_color=8b8478&bg_color=00000000" width="400"/>
 
 ### `> whoami`
 
 ```python
 class NathaliaArtigas:
-    def __init__(self):
-        self.age         = 19
-        self.role        = "Software Engineer Intern @ Electrolux"
-        self.education   = "Engenharia de Software · Infnet"
-        self.location    = "Curitiba, PR 🇧🇷"
-        self.focus       = ["Automação", "Python", "Validação de SW"]
-        self.freelance   = True
+    role       = "Software Engineer Intern @ Electrolux Group"
+    education  = "B.Eng. Software Engineering · Infnet, Curitiba"
+    focus      = ["Python Automation", "REST APIs", "AI Integrations"]
+    flagship   = "CACTO — Firmware Validation System"
+    also       = "Freelance Web Dev · Active Clients"
+    building   = "Portfolio → Fashion Tech & Premium Interfaces"
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🌵 CACTO — Projeto Principal
+## CACTO — Flagship Project
 
-<div align="center">
-
-> ***Cycle Analysis & Comparison Tool***
->
-> Automação de validação de ciclos de teste para máquinas de lavar.
-> Cruza dados do SRS (Excel) com a API interna das máquinas em tempo real.
-
-</div>
+> **Cycle Analysis & Comparison Tool**
+> Automated firmware validation for embedded systems in washing machines.
+> Crosses SRS specs (Excel) against live machine API data in real time.
 
 <br/>
 
 ```
-  ANTES    [██████████████████████████████████████]  ~15 min / ciclo
-  DEPOIS   [█]                                        < 2 seg / ciclo
+  CYCLE (before)   ████████████████  ~15 min   (manual)
+  CYCLE (after)    █                 ~1 min     (automated)   → 93% reduction
 
-  Redução: ████████████████████████ 99,7%
+  FULL PROCESS     ████████████████  baseline
+  FULL PROCESS     ██████████        -41%        (gen + validation + report)
 ```
 
+<br/>
+
 <div align="center">
 
-| Métrica | Antes | Depois | Ganho |
-|:---:|:---:|:---:|:---:|
-| Tempo por ciclo | ~15 min | < 2 seg | **450x mais rápido** |
-| Processo | Manual | Automatizado | **Zero retrabalho** |
-| Erro humano | Possível | Eliminado | **100% consistente** |
+| | Before | After | Reduction |
+|:--|:--:|:--:|:--:|
+| Time per cycle | ~15 min | ~1 min | **93%** |
+| End-to-end process | baseline | −41% total | **41%** |
+| Process | Manual inspection | Fully automated | Zero rework |
+| Human error | Possible | Eliminated | 100% consistent |
+
+</div>
+
+**Architecture evolution:**
+`Web App` → `REST API Layer` → `AI Skill Integration (LARA)` — designed from day one to grow.
+
+---
+
+## Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## ⚙️ Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 🏢 Experiência
+## Experience
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**⚡ Electrolux Group**
-`out/2025 – presente`
+**Electrolux Group** — Fabric Care Lab
+`Oct 2025 – present`
 
-Estagiária de Laboratório de Validação de Sistemas. Desenvolvo automações em Python para validar softwares embarcados em máquinas de lavar. Criadora do **CACTO**.
+Validation Systems Engineering Intern. Building Python automation tools that validate embedded firmware in washing machines — from the web interface through the REST API to an AI skill layer integrated with LARA, the lab's internal AI.
 
-`Python` `Excel` `REST APIs` `Automação`
+Core deliverable: **CACTO** — 93% reduction per cycle, 41% off the full validation pipeline.
+
+`Python · REST APIs · Excel · Automation · AI Integration`
 
 </td>
 <td width="50%" valign="top">
 
-**🛢️ Petrobras**
-`nov/2022 – jun/2024 · 1 ano 8 meses`
+**Petrobras** — Jovem Aprendiz
+`Nov 2022 – Jun 2024 · 1y 8mo`
 
-Jovem aprendiz e desenvolvedora web. Desenvolvi em equipe uma **plataforma de acesso a informações** de bacias petrolíferas, poços e ativos — incluindo mapa interativo para visualização geográfica dos dados estratégicos da empresa.
+Web developer on a team that built an internal intelligence platform for oil basins, wells, and strategic assets — including an interactive geographic map for real-time data visualization used by company analysts.
 
-`Web Dev` `Mapas Interativos` `Plataforma de Dados` `Trabalho em Equipe`
+`Web Development · Interactive Maps · Data Platforms · Team Collaboration`
 
 </td>
 </tr>
@@ -119,23 +122,23 @@ Jovem aprendiz e desenvolvedora web. Desenvolvi em equipe uma **plataforma de ac
 
 ---
 
-## 🎓 Formação
+## Education
 
 ```
-📍 Instituto Infnet          Engenharia de Software        2026 → presente
-📍 Universidade Positivo     Engenharia de Software        2024 → 2025
-📍 SENAI                     Técnico em Dev Web            2022 → 2024
+ Instituto Infnet          B.Eng. Software Engineering     2026 → present
+ Universidade Positivo     B.Eng. Software Engineering     2024 → 2025
+ SENAI                     Technical Diploma · Web Dev     2022 → 2024
 ```
 
 ---
 
-## 📊 GitHub Stats
+## Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathartigas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" width="380"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathartigas&layout=compact&theme=transparent&hide_border=true&title_color=c9b99a&text_color=8b8478&bg_color=00000000" width="360"/>
 
-<img src="https://streak-stats.demolab.com?user=nathartigas&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" width="420"/>
+<img src="https://streak-stats.demolab.com?user=nathartigas&theme=transparent&hide_border=true&background=00000000&stroke=c9b99a&ring=c9b99a&fire=c47a5a&currStreakLabel=c9b99a&sideLabels=8b8478&dates=8b8478" width="400"/>
 
 </div>
 
@@ -144,13 +147,12 @@ Jovem aprendiz e desenvolvedora web. Desenvolvi em equipe uma **plataforma de ac
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│        Construindo devagar, mas todo dia.           │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+  Slow is smooth. Smooth is fast.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:111118,100:0a0a0a&height=80&section=footer" width="100%"/>
 
 </div>
+  
