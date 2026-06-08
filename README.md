@@ -135,13 +135,17 @@ Web developer on a team that built an internal intelligence platform for oil bas
 
 <div align="center">
 
-```
-  Slow is smooth. Smooth is fast.
-```
+<br/>
+
+*The best automation is the one nobody notices —*
+*because everything just works.*
+
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=nathartigas&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:111118,100:0a0a0a&height=80&section=footer" width="100%"/>
 
 </div>
-  
