@@ -1,151 +1,68 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111118,100:0d0d1a&height=180&section=header&text=Nathalia%20Artigas&fontSize=48&fontColor=f5f0e8&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Automation%20%C2%B7%20Curitiba%2C%20BR&descAlignY=62&descSize=14&animation=fadeIn" width="100%"/>
-</div>
+# Nathalia Artigas
 
-<br/>
+Software Engineering student and intern at Caterpillar, based in Campo Largo, Brazil. I turn operational needs and scattered information into clear, automated, data-driven tools.
 
-<div align="center">
+[LinkedIn](https://www.linkedin.com/in/nathaliaartigas) · [Email](mailto:nathartigasna@gmail.com) · [GitHub](https://github.com/nathartigas)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=15&pause=1200&color=C9B99A&center=true&vCenter=true&width=580&lines=Firmware+Validation+Automation+%40+Electrolux;Python+%7C+REST+APIs+%7C+AI+Integrations;Building+systems+that+actually+save+people's+time.)](https://git.io/typing-svg)
+## What I do
 
-</div>
+- **Automation and internal applications** for purchasing operations at Caterpillar
+- **Data organization and dashboards** that make information easier to access and act on
+- **Python, Power Platform, and databases** for practical business workflows
 
-<br/>
+## Current role
 
-<div align="center">
+### Caterpillar — Software Engineer Intern
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white&label=nathaliaartigas)](https://www.linkedin.com/in/nathaliaartigas)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-%23EA4335?style=flat-square&logo=gmail&logoColor=white&label=nathartigasna)](mailto:nathartigasna@gmail.com)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white&label=nathartigas)](https://github.com/nathartigas)
+I work with Purchasing Operations to make internal processes and information access clearer, simpler, and more efficient. The work starts with understanding operational needs and mapping workflows, then turns manual or unstructured activities into organized, automated solutions that are easy to follow.
 
-</div>
+`Power Automate` `Power Apps` `Power BI` `Python` `Databases`
 
----
+## Selected experience
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nathartigas&show_icons=true&theme=transparent&hide_border=true&title_color=c9b99a&icon_color=c9b99a&text_color=8b8478&bg_color=00000000" width="400"/>
+### CACTO — Cycle Analysis & Comparison Tool
 
-### `> whoami`
+At Electrolux Group, I developed an internal automation system for embedded-firmware validation in appliances. The platform transformed a repetitive comparison workflow into a more reliable and repeatable process—from engineering specifications to validation results and reporting.
 
-```python
-class NathaliaArtigas:
-    role       = "Software Engineer Intern @ Electrolux Group"
-    education  = "B.Eng. Software Engineering · Infnet, Curitiba"
-    focus      = ["Python Automation", "REST APIs", "AI Integrations"]
-    flagship   = "CACTO — Firmware Validation System"
-    also       = "Freelance Web Dev · Active Clients"
-    building   = "Portfolio → Fashion Tech & Premium Interfaces"
-```
+| Impact | Result |
+| --- | --- |
+| Time per validation cycle | **~15 min → ~1 min** |
+| Reduction per cycle | **93%** |
+| End-to-end process | **41% faster** |
 
-<br clear="right"/>
+`Python` `FastAPI` `REST APIs` `Excel automation` `Dashboards` `Pytest`
 
----
-
-## CACTO — Flagship Project
-
-> **Cycle Analysis & Comparison Tool**
-> Automated firmware validation for embedded systems in washing machines.
-> Crosses SRS specs (Excel) against live machine API data in real time.
-
-<br/>
-
-```
-  CYCLE (before)   ████████████████  ~15 min   (manual)
-  CYCLE (after)    █                 ~1 min     (automated)   → 93% reduction
-
-  FULL PROCESS     ████████████████  baseline
-  FULL PROCESS     ██████████        -41%        (gen + validation + report)
-```
-
-<br/>
-
-<div align="center">
-
-| | Before | After | Reduction |
-|:--|:--:|:--:|:--:|
-| Time per cycle | ~15 min | ~1 min | **93%** |
-| End-to-end process | baseline | −41% total | **41%** |
-| Process | Manual inspection | Fully automated | Zero rework |
-| Human error | Possible | Eliminated | 100% consistent |
-
-</div>
-
-**Architecture evolution:**
-`Web App` → `REST API Layer` → `AI Skill Integration (LARA)` — designed from day one to grow.
-
----
-
-## Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
----
+> Project details are kept high-level because the work supported internal product development.
 
 ## Experience
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+**Caterpillar Inc. · Software Engineer Intern**<br>
+*Aug 2026 — present · Campo Largo, Brazil*
 
-**Electrolux Group** — Fabric Care Lab
-`Oct 2025 – present`
+Building automations, internal applications, and reporting tools for Purchasing Operations using Power Platform, Python, and databases.
 
-Validation Systems Engineering Intern. Building Python automation tools that validate embedded firmware in washing machines — from the web interface through the REST API to an AI skill layer integrated with LARA, the lab's internal AI.
+**Electrolux Group · Software Validation Intern**<br>
+*Oct 2025 — Aug 2026 · Curitiba, Brazil*
 
-Core deliverable: **CACTO** — 93% reduction per cycle, 41% off the full validation pipeline.
+Developed CACTO, an internal platform that automated embedded-firmware validation workflows.
 
-`Python · REST APIs · Excel · Automation · AI Integration`
+**Petrobras · Web Development Apprentice**<br>
+*Nov 2022 — Jun 2024*
 
-</td>
-<td width="50%" valign="top">
+Contributed to an internal intelligence platform for oil basins, wells, and strategic assets, including interactive geographic data visualizations for analysts.
 
-**Petrobras** — Jovem Aprendiz
-`Nov 2022 – Jun 2024 · 1y 8mo`
+## Toolbox
 
-Web developer on a team that built an internal intelligence platform for oil basins, wells, and strategic assets — including an interactive geographic map for real-time data visualization used by company analysts.
-
-`Web Development · Interactive Maps · Data Platforms · Team Collaboration`
-
-</td>
-</tr>
-</table>
-
----
+`Python` `Power Automate` `Power Apps` `Power BI` `SQL` `FastAPI` `REST APIs` `React` `Git`
 
 ## Education
 
-```
- Instituto Infnet          B.Eng. Software Engineering     2026 → present
- Universidade Positivo     B.Eng. Software Engineering     2024 → 2025
- SENAI                     Technical Diploma · Web Dev     2022 → 2024
-```
+| Institution | Program | Period |
+| --- | --- | --- |
+| Instituto Infnet | B.Eng. in Software Engineering | 2026 — present |
+| Universidade Positivo | B.Eng. in Software Engineering | 2024 — 2025 |
+| SENAI | Technical Diploma in Web Development | 2022 — 2024 |
 
 ---
 
-
-<div align="center">
-
-<br/>
-
-*The best automation is the one nobody notices —*
-*because everything just works.*
-
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=nathartigas&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:111118,100:0a0a0a&height=80&section=footer" width="100%"/>
-
-</div>
+*Good automation feels invisible: work simply gets done.*
