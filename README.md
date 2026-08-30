@@ -78,13 +78,6 @@ Contributed to an internal intelligence platform for oil basins, wells, and stra
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-## GitHub at a glance
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nathartigas&show_icons=true&hide_border=true&title_color=1A1A1A&icon_color=E3B600&text_color=4A4A4A&bg_color=00000000" alt="Nathalia's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathartigas&layout=compact&hide_border=true&title_color=1A1A1A&text_color=4A4A4A&bg_color=00000000" alt="Nathalia's most used languages" />
-</div>
-
 ## Education
 
 | Institution | Program | Period |
